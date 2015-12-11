@@ -1,0 +1,4 @@
+导出
+mysqldump   -h10.140.229.154   -ukuaiyi   -podKamlr4GxUa1xW --set-gtid-purged=off   product_portal >  /var/www/product_portal.sql
+导入
+source /var/www/....sql

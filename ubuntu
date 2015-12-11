@@ -1,0 +1,1 @@
+scp  -P 22138 root@123.57.153.24:/var/www/product_portal.sql /var/www 
