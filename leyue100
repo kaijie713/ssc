@@ -1,0 +1,20 @@
+zs
+ssh root@123.57.153.24 -p22138
+cs
+ssh root@172.16.0.82 -p22138
+
+
+10.140.229.154
+kuaiyi
+odKamlr4GxUa1xW
+
+
+项目git地址:   ssh://root@123.57.153.24:22138/data/git/kyportal.git
+使用yaf框架.
+服务器:  linux+php5.6+nginx+redis+mysql+mongodb
+
+目前工作
+1.优化认证流程,
+2.改造新的主页,
+3.数据统计分析,
+4.广告平台开发.
